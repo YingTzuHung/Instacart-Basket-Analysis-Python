@@ -16,9 +16,13 @@ This project focuses on analyzing Instacart, a popular online grocery store oper
 * How do customer demographics and behaviors vary in terms of brand loyalty, regional differences, and purchasing patterns?
 
 ## Data Source
+* The Instacart Online Grocery Shopping Dataset 2017, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.
+* Customer data and “prices” column in the products data set were both fabricated for the purpose of the Careerfoundry course.
 
 ## Tools
+* Language: Python
+* Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
+* Software: Jupyter Notebooks and Excel
 
-## Folders
-
-## Resources / Final Deliverable
+## Final Deliverable
+[Instacart Baske Analysis Final Report (Excel)](https://docs.google.com/spreadsheets/d/1xfTqWWWw8RxsSOO1skzNteIuVh32V-n1vsQrakXbnFE/edit#gid=1028560567)
