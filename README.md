@@ -25,4 +25,4 @@ This project focuses on analyzing Instacart, a popular online grocery store oper
 * Software: Jupyter Notebooks and Excel
 
 ## Final Deliverable
-[Instacart Baske Analysis Final Report (Excel)](https://docs.google.com/spreadsheets/d/1xfTqWWWw8RxsSOO1skzNteIuVh32V-n1vsQrakXbnFE/edit#gid=1028560567)
+[Instacart Basket Analysis Final Report (Excel)](https://docs.google.com/spreadsheets/d/1xfTqWWWw8RxsSOO1skzNteIuVh32V-n1vsQrakXbnFE/edit#gid=1028560567)
